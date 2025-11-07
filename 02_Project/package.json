@@ -1,0 +1,17 @@
+{
+  "name": "2_project_01",
+  "version": "1.0.0",
+  "description": "How to deploy backend code in production?",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "OVERxPOWERED",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.2.2",
+    "express": "^5.1.0"
+  }
+}
